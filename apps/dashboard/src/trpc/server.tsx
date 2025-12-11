@@ -1,3 +1,4 @@
+// apps/dashboard/src/trpc/server.tsx
 import "server-only";
 
 import { Cookies } from "@/utils/constants";
